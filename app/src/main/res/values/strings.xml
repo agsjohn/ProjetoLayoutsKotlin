@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="linear_layout">Open Linear Layout</string>
+    <string name="constraint_layout">Open Constraint Layout</string>
+    <string name="coordinator_layout">Open Coordinator Layout</string>
+    <string name="frame_layout">Open Frame Layout</string>
+    <string name="grid_layout">Open Grid Layout</string>
+    <string name="relative_layout">Open Relative Layout</string>
+    <string name="scrollview_layout">Open Scrollview Layout</string>
+
+</resources>
