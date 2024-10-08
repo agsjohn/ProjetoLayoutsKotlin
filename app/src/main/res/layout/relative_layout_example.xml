@@ -8,15 +8,18 @@
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_toRightOf="@id/button1"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentTop="true"
-        android:text="Texto acima" />
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/button1"
+        android:layout_alignParentBottom="false"
+        android:layout_alignParentTop="false"
+        android:text="Text" />
 
     <Button
         android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Botão abaixo do texto" />
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="Clique" />
 
 </RelativeLayout>

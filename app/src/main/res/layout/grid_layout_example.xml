@@ -12,7 +12,7 @@
         android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:backgroundTint="@color/button_background_color"
+        android:backgroundTint="@color/cor_fundo_botao1"
         android:layout_row="0"
         android:layout_column="0"
         android:text="Botão 1" />
@@ -20,13 +20,15 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Botão 2"
+        android:backgroundTint="@color/cor_fundo_botao2"
         android:layout_row="3"
-        android:layout_column="1" />
+        android:layout_column="1"
+        android:text="Botão 2" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:backgroundTint="@color/cor_fundo_botao3"
         android:text="Botão 3"
         android:layout_row="0"
         android:layout_column="3" />
@@ -34,6 +36,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:backgroundTint="@color/cor_fundo_botao4"
         android:text="Botão 4"
         android:layout_row="3"
         android:layout_column="3" />
@@ -41,6 +44,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:backgroundTint="@color/cor_fundo_botao5"
         android:text="Botão 5"
         android:layout_row="1"
         android:layout_column="1" />
@@ -48,6 +52,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:backgroundTint="@color/cor_fundo_botao6"
         android:text="Botão 6"
         android:layout_row="2"
         android:layout_column="2" />

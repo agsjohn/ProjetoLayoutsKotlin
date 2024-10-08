@@ -14,5 +14,6 @@
     <string name="grid_layout">Open Grid Layout</string>
     <string name="relative_layout">Open Relative Layout</string>
     <string name="scrollview_layout">Open Scrollview Layout</string>
-
+    <string name="LoremIpsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec faucibus purus sit amet blandit consectetur. Duis suscipit volutpat dolor quis iaculis. Nullam pretium tortor vitae enim consequat iaculis. Duis in sollicitudin quam, non efficitur sapien. Nam sed vulputate tellus. Pellentesque molestie vitae ex eu varius. Maecenas vitae condimentum mauris. Vivamus non tellus sit amet turpis sodales rhoncus.
+    </string>
 </resources>
